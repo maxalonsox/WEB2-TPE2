@@ -30,7 +30,7 @@ Esta es una API para acceder a los productos que están en la base de datos de u
   Obtiene un producto en particular, especificado por su ID enviada por parámetro.
   
   ```bash
-  localhost/carpetealocal/api/products/5
+  localhost/carpetalocal/api/products/5
   ```
 
 
